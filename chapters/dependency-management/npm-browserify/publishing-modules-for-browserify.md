@@ -1,0 +1,1 @@
+# Publishing modules for Browserify on npm

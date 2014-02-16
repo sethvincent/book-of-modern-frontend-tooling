@@ -1,0 +1,1 @@
+# Using Browserify to produce standalone UMD modules

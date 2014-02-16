@@ -1,0 +1,1 @@
+# Finding and installing modules on npm that work with Browserify

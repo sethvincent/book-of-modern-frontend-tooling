@@ -1,0 +1,1 @@
+# Creating modules for both npm and Browserify

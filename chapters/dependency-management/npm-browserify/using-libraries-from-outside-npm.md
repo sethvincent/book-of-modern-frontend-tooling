@@ -1,0 +1,1 @@
+# Using JavaScript libraries from outside npm with Browserify
